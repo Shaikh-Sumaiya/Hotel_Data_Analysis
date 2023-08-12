@@ -1,0 +1,17 @@
+Data Analysis Portfolio Project
+
+GOAL: Develop a database to analyze and visualize hotel booking data.
+
+REQUIREMENTS: Build a visual data story or dashboard using POwer BI to present to your stakeholders.
+
+Q.1 -> Is our hotel revenue growing by year ?
+Q.2 -> Should we increase our parking lot size ?
+Q.3 -> What trends can we see in the data ?
+
+PIPELINE:
+1. Build a Database
+2. Develop the SQL Query
+3. Connect Power BI to the Database
+4. Visualize
+5. Summarize Findings
+
